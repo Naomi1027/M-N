@@ -1,1 +1,1 @@
-# M-N My first repository
+my-first-repository
